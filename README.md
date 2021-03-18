@@ -1,0 +1,3 @@
+- Hi, I’m @ogoun
+- I’m interested in .net, ML
+- I’m currently learning ML

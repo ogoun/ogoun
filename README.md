@@ -23,7 +23,7 @@ I am a .NET backend developer
 ![BIGDATA](https://img.shields.io/badge/BIGDATA-black?style=for-the-badge)
 ![HDFS](https://img.shields.io/badge/HDFS-white?style=for-the-badge)
 ![OOZIE](https://img.shields.io/badge/OOZIE-white?style=for-the-badge)
-![SIZE](https://img.shields.io/badge/DayData-1Tb-pink?style=for-the-badge)
+![SIZE](https://img.shields.io/badge/DayData-6Tb-pink?style=for-the-badge)
 
 ![ML](https://img.shields.io/badge/ML-black?style=for-the-badge)
 ![CV](https://img.shields.io/badge/CV-white?style=for-the-badge)
